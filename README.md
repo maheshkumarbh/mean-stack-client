@@ -1,6 +1,10 @@
 # MeanStackClient
 
+![MEAN Stack](image-1.png)
+
 ![MEAN Stack Cleint-Server Architecture](image.png)
+
+[text](https://www.mongodb.com/languages/mean-stack-tutorial?utm_campaign=devrel&utm_source=youtube&utm_medium=organic_social&utm_content=GcYxQ0A7tVM&utm_term=jesse.hall)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
